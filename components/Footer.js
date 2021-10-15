@@ -12,18 +12,18 @@ function Footer() {
 
             <div className="space-y-4 text-xs text-gray-800">
                 <h5 className="font-bold">HOST</h5>
-                <p>Accessibility</p>
-                <p>This is not a real site</p>
-                <p>Investors</p>
-                <p>Airbnb Plus</p>
-                <p>Airbnb Lux</p>
+                <p>Host your home</p>
+                <p>Host an online experience</p>
+                <p>Host an experience</p>
+                <p>Responsible hosting</p>
+                <p>Resource centre</p>
             </div>
 
             <div className="space-y-4 text-xs text-gray-800">
                 <h5 className="font-bold">COMMUNITY</h5>
-                <p>Hpw Airbnb Works</p>
-                <p>Newsroom</p>
-                <p>Investors</p>
+                <p>Diversity & belongings</p>
+                <p>Accessibility</p>
+                <p>Airbnb</p>
                 <p>Airbnb Plus</p>
                 <p>Airbnb Lux</p>
             </div>
